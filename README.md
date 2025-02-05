@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @christopherjperez
+- 👋 Hi, I’m @chrisperez4k
 - 👀 I’m interested in ...becoming a full-stack developer
 - 🌱 I’m currently learning ...HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on ... anything and everything that would be worthwhile to further my learning journey.
-- 📫 How to reach me ... christopherjpereznyc@gmail.com
+- 📫 How to reach me ... chrisperez4k@outlook.com
 
 <!---
 christopherjperez/christopherjperez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
